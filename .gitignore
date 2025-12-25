@@ -1,0 +1,26 @@
+# Maven build directory
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.eclipse/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Spring Boot specific
+*.jar
+!mvnw.jar
+
+# Environment variables
+.env
